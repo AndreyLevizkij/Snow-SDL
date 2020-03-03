@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\User\source\repos\LB21\LB21\Source.cpp(43,13): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\User\source\repos\LB21\LB21\Source.cpp(88,30): warning C4554:  "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+  LB21.vcxproj -> C:\Users\User\source\repos\LB21\Debug\LB21.exe
